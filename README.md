@@ -1,13 +1,16 @@
 # 30-Day LeetCoding Challenge
 
-> Solved problems
+Solved problems
 
-## Install
+## Javascript
+
+### Install
+
 
 ```bash
-npm i -S live-xxx
+npm i
 ```
 
-## Usage
+### Usage
 
 npm start
