@@ -1,0 +1,17 @@
+{
+  "name": "leetcodechallenge",
+  "version": "0.0.1",
+  "description": "Js test",
+  "main": "app.js",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\"",
+    "test": "mocha"
+  },
+  "author": "Alejandro Pérez",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.5 <2.23.2",
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
